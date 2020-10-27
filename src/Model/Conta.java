@@ -6,6 +6,8 @@ public class Conta {
 	public String agencia;
 	public String numeroConta;
 	public double saldo;
+	public double calculo;
+	public double calculo1;
 	
 	public String getNome() {
 		return nome;
